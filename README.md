@@ -1,7 +1,9 @@
-<div style="position: relative; text-align: center;">
-  <img src="Github Poster.png" alt="Poster" style="width: 80%;">
+![Github Poster](https://github.com/user-attachments/assets/7e5ae670-97f3-422d-883c-7637254dffc4) <br>
 
-  <!-- Telescope Image -->
-  <img src="Telescope.png" alt="Telescope" style="position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%); width: 150px;">
-</div>
+
+
+
+
+
+
 
