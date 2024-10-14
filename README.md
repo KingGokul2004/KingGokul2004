@@ -3,4 +3,8 @@
 <br>
 
 
-# Hi, I'm Gokul N <img src="512.gif" alt="GIF" width="45" height="45">
+# Hi, I'm Gokul N <img src="512.gif" alt="GIF" width="45" height="45">    
+
+*Aspiring Software Developer Engineer (Web Developer / Programmer)*
+
+
