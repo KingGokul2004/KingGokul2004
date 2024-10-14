@@ -9,5 +9,5 @@
 
 <br>
 
-I am a pre-final year Cyber Security student @ Chennai Institute of Technology and an `Aspiring Software Developer Engineer`. With a strong foundation in Web development and Full Stack Development through various internships, I have developed a deep passion for technologies such as Java, React.js, Next.js, Express.js, Python, RESTful API, Spring Boot, and MongoDB. Additionally, I have a keen interest in pentesting, Linux, and ethical hacking.
+I am a pre-final year Cyber Security student @ Chennai Institute of Technology and an *`Aspiring Software Developer Engineer`*. With a strong foundation in Web development and Full Stack Development through various internships, I have developed a deep passion for technologies such as Java, React.js, Next.js, Express.js, Python, RESTful API, Spring Boot, and MongoDB. Additionally, I have a keen interest in pentesting, Linux, and ethical hacking.
 
